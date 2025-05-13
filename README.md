@@ -14,4 +14,3 @@ Objectives :
 
 3. Interactive Visual Insights and Geographic Trends : 
 - Track season-wise team dominance and performance fluctuations.
-- Build dynamic dashboards for stakeholder-friendly data exploration.
