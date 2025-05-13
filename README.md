@@ -1,5 +1,7 @@
 <h1>IPL DATA ANALYSIS</h1>
 Objectives : 
+
+
 1. IPL Match and Team Performance Analysis : 
 - Analyze match distributions across seasons and cities.
 - Evaluate team-wise wins per season, total wins, and top run-scoring teams.
