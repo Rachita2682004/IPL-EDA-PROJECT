@@ -1,6 +1,6 @@
 <h1>IPL DATA ANALYSIS/ IPL DASHBOARD/ SALES DASHBOARD FOR GLOBAL SUPERSTORE</h1>
 
-IPL DATA ANALYSIS
+(A) IPL DATA ANALYSIS
 
 - Objectives : 
 
@@ -20,7 +20,7 @@ IPL DATA ANALYSIS
 
 
 
-🏏 IPL Analysis Dashboard :
+(B) 🏏 IPL Analysis Dashboard :
 This Power BI dashboard presents an interactive and insightful analysis of the Indian Premier League (IPL), enabling users to explore detailed performance metrics for teams and players across different seasons.
 
 🔍 Dashboard Features:
@@ -47,7 +47,7 @@ This dashboard is ideal for cricket enthusiasts, sports analysts, and data profe
 
 
 
-📊 Sales Dashboard of Global Superstore :
+(C) 📊 Sales Dashboard of Global Superstore :
 
 
 This Power BI dashboard presents a comprehensive analysis of sales performance for a global retail superstore. It is designed to provide business stakeholders with interactive and insightful visualizations to support data-driven decision-making.
