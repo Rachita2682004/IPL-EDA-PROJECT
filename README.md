@@ -69,7 +69,8 @@ This Power BI dashboard presents a comprehensive analysis of sales performance f
 This dashboard is ideal for sales teams, business analysts, and retail managers looking to monitor performance, identify growth opportunities, and make informed decisions based on regional, product, and customer data.
 
 
-🍕 Pizza Sales Dashboard - Power BI Project
+(D) 🍕 Pizza Sales Dashboard - Power BI Project
+
 🔍 Overview
 This Pizza Sales Dashboard is built using Power BI to provide a comprehensive and visually engaging analysis of pizza sales data. The dashboard enables business stakeholders to quickly gain insights into sales trends, customer preferences, product performance, and order behavior.
 
