@@ -69,3 +69,53 @@ This Power BI dashboard presents a comprehensive analysis of sales performance f
 This dashboard is ideal for sales teams, business analysts, and retail managers looking to monitor performance, identify growth opportunities, and make informed decisions based on regional, product, and customer data.
 
 
+🍕 Pizza Sales Dashboard - Power BI Project
+🔍 Overview
+This Pizza Sales Dashboard is built using Power BI to provide a comprehensive and visually engaging analysis of pizza sales data. The dashboard enables business stakeholders to quickly gain insights into sales trends, customer preferences, product performance, and order behavior.
+
+📊 Key Features
+- Total Revenue, Orders, and AOV (Average Order Value) summary cards
+- Orders Per Day visualization to identify peak sales days
+- Pizza Category Performance showing total pizzas sold by type (Classic, Veggie, Chicken, etc.)
+- Sales by Pizza Size (S, M, L, XL) with % contribution
+- Top 5 Best Sellers and Worst Sellers bar charts
+
+Interactive filters:
+- Time Slot
+- Quarter
+- KPI Cards for Total Revenue, Orders, Pizzas Sold, and Avg Pizzas per Order
+- Fun and thematic visuals including pizza icons and chef illustrations for user engagement
+
+🎯 Insights Derived
+1. Friday records the highest number of orders.
+2. Classic pizzas are the most popular category.
+3. Large-sized pizzas (L) contribute the most to total sales.
+4. Identifies low-performing pizzas for potential removal or improvement.
+
+🛠️ Tools & Technologies
+- Power BI
+- DAX for measures and KPIs
+- Data modeling and relationships
+- Visualization best practices and UI/UX enhancements
+
+🙌 Contribution
+This is a personal project created for learning and showcasing dashboard design skills. Feedback and suggestions are welcome!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
